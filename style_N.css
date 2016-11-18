@@ -1,0 +1,42 @@
+    h1{
+		color: pink;
+		background-color: purple;
+		text-align: center;
+		line-height: 50px;
+		padding: 0px;
+		margin: 0px;
+		margin-bottom: 40px;
+	}
+
+	div{
+		border-color: green;
+		border-width: 2px;
+		border-style: groove;
+		width: 170px;
+		height: 400px;
+	}
+
+	#lyrics{
+		border:none;
+		position: absolute;
+		width: 250px;
+		height: 175px;
+		top: 20%;
+		left: 30%;
+	}
+
+	#imag{
+		height: 150px;
+		position: absolute;
+		top: 30%;
+		left: 60%;
+	}
+
+	#audi{
+		position: absolute;
+		border-style: none;
+		height: 500px;
+		top: 60%;
+		left: 60%;
+
+	}
